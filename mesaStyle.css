@@ -39,6 +39,12 @@ h1 {
     background-color: #00BBC9;
 }
 
+#contacto {
+    content: normal;
+}
+#contacto.active {
+    content: "Numero de telefono : 9646664451";
+}
 
 
 
