@@ -12,6 +12,11 @@ h1 {
     font-family: 'Abril Fatface', cursive;
 }
 
+h2 {
+    text-align: center;
+    padding-top: 1em;
+}
+
 .jumbotron {
     background-color: rgba(0, 0, 0, 0);
 }
